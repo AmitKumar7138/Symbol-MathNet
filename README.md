@@ -12,7 +12,7 @@ Our group went through and cleaned and relabeled this data. See Homework 3 Part 
 
 We trained the model using the VGG16 (type of convolutional neural network) algorithm. The training and prepocessing was done in the "train.ipynb" file. The model with the optimal parameters was saved and exported to "trained_VGG16_model.h5". The test program uses this exported model.
 Below are the model parameters:  
-<img src="https://github.com/UF-EEL5840-F22/final-project---code-report-sosimple/blob/main/model_params.jpg" width="500" height="800">
+<img src="https://github.com/AmitKumar7138/HandWritten_MathematicalSymbol_Classification/blob/main/model_params.jpg" width="500" height="800">
 
 The model was trained on corrected label and corrected image dataset.
 
