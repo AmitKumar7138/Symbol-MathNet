@@ -38,4 +38,4 @@ IMPORTANT: It is trained to detect the unknown character so the label "10" will 
 
 Archit Jaiswal, Amit Kumar, Nathan Grinalds, Humberto Garcia
 
-## Link: https://github.com/UF-EEL5840-F22/final-project---code-report-sosimple
+
