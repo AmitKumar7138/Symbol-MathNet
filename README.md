@@ -1,4 +1,4 @@
-# HandWritten_MathematicalSymbol_Classification
+# Symbol-MathNet- HandWritten_MathematicalSymbol_Classification
 # Final Project
 
 Classify the images of handwritten mathematical symbols. 
